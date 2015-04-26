@@ -10,4 +10,9 @@
 
 @interface ViewController : UIViewController
 
+@property UIView *redView;
+@property UIView *greenView;
+@property UIView *blueView;
+@property UIView *yellowView;
+
 @end
